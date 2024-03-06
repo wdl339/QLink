@@ -44,15 +44,11 @@ QString s =     "角色出现在地图上的随机位置，控制角色在地图
 
 游戏内截图：
 
-![1](D:\code_qt\QLink\pictureForReadMe\1.png)
-
-
-
-![2](D:\code_qt\QLink\pictureForReadMe\2.png)
-
-
-
-![3](D:\code_qt\QLink\pictureForReadMe\3.png)
+<div align="center">
+    <img src="pictureForReadMe/1.png" style="width: 100%;">
+    <img src="pictureForReadMe/2.png" style="width:100%;">
+    <img src="pictureForReadMe/3.png" style="width:100%;">
+</div>
 
 
 
