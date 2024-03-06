@@ -1,0 +1,46 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/black.png</file>
+        <file>images/prop1.png</file>
+        <file>images/prop2.png</file>
+        <file>images/prop3.png</file>
+        <file>images/prop4.png</file>
+        <file>images/pure.png</file>
+        <file>images/element1.png</file>
+        <file>images/element2.png</file>
+        <file>images/element3.png</file>
+        <file>images/element4.png</file>
+        <file>images/element5.png</file>
+        <file>images/element6.png</file>
+        <file>images/element7.png</file>
+        <file>images/element8.png</file>
+        <file>images/element9.png</file>
+        <file>images/element10.png</file>
+        <file>images/element11.png</file>
+        <file>images/element12.png</file>
+        <file>images/element13.png</file>
+        <file>images/element14.png</file>
+        <file>images/mode2prop1.png</file>
+        <file>images/mode2prop2.png</file>
+        <file>images/mode2prop3.png</file>
+        <file>images/mode2prop4.png</file>
+        <file>images/mode2prop5.png</file>
+        <file>images/pause.png</file>
+        <file>images/menu.png</file>
+        <file>images/return.png</file>
+        <file>images/role1.png</file>
+        <file>images/role2.png</file>
+        <file>images/achieve1.png</file>
+        <file>images/achieve2.png</file>
+        <file>images/achieve3.png</file>
+        <file>images/achieve4.png</file>
+        <file>images/achieve5.png</file>
+        <file>images/achieve6.png</file>
+        <file>images/achieve7.png</file>
+        <file>images/achieve8.png</file>
+        <file>images/restart.png</file>
+        <file>music/prop.mp3</file>
+        <file>music/link.mp3</file>
+        <file>images/heta.png</file>
+    </qresource>
+</RCC>

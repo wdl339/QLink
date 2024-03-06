@@ -1,0 +1,14 @@
+release/achieve.o
+release/main.o
+release/menu.o
+release/player.o
+release/simpletest.o
+release/submenu.o
+release/widget.o
+release/qrc_qlink.o
+release/moc_achieve.o
+release/moc_menu.o
+release/moc_player.o
+release/moc_simpletest.o
+release/moc_submenu.o
+release/moc_widget.o

@@ -1,0 +1,14 @@
+debug/achieve.o
+debug/main.o
+debug/menu.o
+debug/player.o
+debug/simpletest.o
+debug/submenu.o
+debug/widget.o
+debug/qrc_qlink.o
+debug/moc_achieve.o
+debug/moc_menu.o
+debug/moc_player.o
+debug/moc_simpletest.o
+debug/moc_submenu.o
+debug/moc_widget.o
